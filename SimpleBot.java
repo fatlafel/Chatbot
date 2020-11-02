@@ -46,7 +46,7 @@ public class SimpleBot {
     static void test() {
         int opciones = 4;
         System.out.println("Let's test your programming knowledge.");
-        System.out.println("¿Por qué me huele el coño?");
+        System.out.println("QUESTION***");
         switch (opciones){
             case 1:
                 System.out.println("1. Porque no te has duchado");
