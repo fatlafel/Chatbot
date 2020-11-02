@@ -52,16 +52,16 @@ public class SimpleBot {
                 System.out.println("1. Porque no te has duchado");
                 break;
             case 2:
-                System.out.println("2. Por que has follao mucho");
+                System.out.println("2. default");
                 break;
             case 3:
-                System.out.println("3. Por que tienes algo");
+                System.out.println("3. default");
                 break;
             case 4:
-                System.out.println("4. Por que zín");
+                System.out.println("4. default");
                 break;
             default:
-                System.out.println("Xao maricón");
+                System.out.println("5. default");
 
         }
         opciones = scanner.nextInt();
