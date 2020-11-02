@@ -49,7 +49,7 @@ public class SimpleBot {
         System.out.println("QUESTION***");
         switch (opciones){
             case 1:
-                System.out.println("1. Porque no te has duchado");
+                System.out.println("1. default");
                 break;
             case 2:
                 System.out.println("2. default");
